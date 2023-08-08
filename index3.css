@@ -1,0 +1,31 @@
+.container{
+    background-color: black(91, 163, 163);
+      max-width: 500px;
+      margin: 20px auto;
+      padding: 30px;
+      
+      text-align: center;
+      margin-top: 5%;
+      margin-left: 60%;
+}
+body{
+    background-image: url("msg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+hr{
+    width: 257px;
+    text-align: center;
+    margin-left: -30px;
+    color:black ;
+}
+input{
+    height: 20px;
+    width: 150px;
+    border-color: #c16161;
+}
+button:hover{
+      background-color: aqua;
+}
